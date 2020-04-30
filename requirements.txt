@@ -1,0 +1,6 @@
+json==2.0.9
+pandas==0.24.2
+urllib==1.18
+Flask==1.0.2
+gunicorn==19.9.0
+Jinja2==2.10.1 
