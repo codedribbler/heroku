@@ -4,5 +4,6 @@ app = Flask(__name__)
 def home():
     print('Hello World')
     return render_template("Index.html")
-app.run()
+if __name__ == '__main__':
+    app.run()
 
