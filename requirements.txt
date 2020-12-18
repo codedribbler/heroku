@@ -295,7 +295,7 @@ tempora==2.1.0
 tensorboard==1.14.0
 tensorflow==1.14.0
 tensorflow-estimator==1.14.0
-tensorflow-gpu==2.1.0
+tensorflow-gpu==2.4.0
 tensorflow-gpu-estimator==2.1.0
 tensorflow-serving-api==1.12.0
 termcolor==1.1.0
