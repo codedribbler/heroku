@@ -293,7 +293,7 @@ tables==3.5.1
 tblib==1.3.2
 tempora==2.1.0
 tensorboard==1.14.0
-tensorflow==1.14.0
+tensorflow==2.4.0
 tensorflow-estimator==1.14.0
 tensorflow-gpu==2.1.0
 tensorflow-gpu-estimator==2.1.0
